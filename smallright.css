@@ -1,0 +1,12 @@
+@charset "utf-8";
+ .smallright{
+ background:#9FF;
+	height: 500px;
+	width: 250px;
+	position:relative;
+	top:0px;
+	float:right;
+		}
+
+
+
